@@ -9,7 +9,7 @@ When you import users to Joomla from some old site, which was not in Joomla, the
 **Step 3**: If the passwords can be decrypted (which means the old site was unsecure ;)), update the password field with decrypted passwords.
         Else, write some script to generate random passowords and email it to the users.
 
-**Step 4**: Run "php update_passwords.php" from your terminal. Run "php update_passwords.php" from your terminal
+**Step 4**: Run "php update_passwords.php" from your terminal.
 
 **Step 5**: Export the table to an SQL file.
 
